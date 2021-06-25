@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 
 //A demo for github
+//fetch
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
